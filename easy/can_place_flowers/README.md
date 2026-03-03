@@ -1,4 +1,4 @@
-# Climbing stairs
+# Can place flowers 
 
 ## Desciption
 
@@ -28,7 +28,7 @@ Constraints:
     0 <= n <= flowerbed.length
 
 
-<a href="https://leetcode.com/problems/longest-common-prefix/description/" style="color: white;">>> link <<</a>
+<a href="https://leetcode.com/problems/can-place-flowers/description/" style="color: white;">>> link <<</a>
 
 ## Aproche
 
